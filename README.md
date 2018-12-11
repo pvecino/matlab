@@ -1,2 +1,2 @@
 # matlab
-My code from LSC
+Universidad: URJC | Asignatura: Laboratorio de Comunicaciones | Curso: 3º | Lenguaje de Programación: matlab
